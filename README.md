@@ -10,3 +10,17 @@ Create a table named crud inside your MySQL database using the following code.
                       `gender` varchar(255) NOT NULL,
                       PRIMARY KEY (`id`)
                     )
+
+
+Retrofit
+                https://github.com/square/retrofit
+                 https://square.github.io/
+                 
+                  /*retrofit */
+                  implementation 'com.squareup.retrofit2:retrofit:2.9.0'
+                  implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+                  
+                  
+swiperefreshlayout   
+
+                   implementation 'androidx.swiperefreshlayout:swiperefreshlayout:1.1.0'
