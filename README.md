@@ -12,10 +12,7 @@ Creating the Database Table
 
 Retrofit
              https://github.com/square/retrofit
-             
              https://square.github.io/
-                 
-                 
                  
                   /*retrofit */
                   implementation 'com.squareup.retrofit2:retrofit:2.9.0'
