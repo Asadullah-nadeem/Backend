@@ -1,5 +1,4 @@
 
-youtube link:- https://youtu.be/lXZCwS078OY
 
 Creating the Database Table
 
